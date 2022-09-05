@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "Lenovo P542 4GB",
+        "price": 35000,
+        "img": "Images/destacado1.jpg",
+        "cantidad": 1
+        
+    },
+    {
+        "id": 2,
+        "title": "Lenovo G745 10GB",
+        "price": 50000,
+        "img": "Images/destacado2.jpg",
+        "cantidad": 1
+        
+    },
+    {
+        "id": 3,
+        "title": "Lenovo A845 20GB",
+        "price": 70000,
+        "img": "Images/destacado3.jpg",
+        "cantidad": 1
+        
+    },
+    {
+        "id": 4,
+        "title": "Lenovo F445 30GB",
+        "price": 90000,
+        "img": "Images/destacado4.jpg",
+        "cantidad": 1
+        
+        
+    }
+
+]
